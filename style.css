@@ -1,0 +1,35 @@
+html {
+	height: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body {
+	background: linear-gradient(to right, red, yellow);
+	text-align: center;
+}
+.random-color {
+	margin-top: 300px;
+}
+
+.codess {
+	padding: 5px;
+	margin-bottom: 30px;
+	font-family: sans-serif;
+	letter-spacing: 1px;
+}
+.color1,
+.color2 {
+	width: 70px;
+	height: 40px;
+	margin: 10px;
+	margin-top: 20px;
+}
+select {
+	margin-top: 25px;
+	width: 130px;
+	height: 35px;
+}
